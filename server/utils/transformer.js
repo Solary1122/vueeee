@@ -29,7 +29,7 @@ const VUE_TEMPLATE_MARKUP = `
       <div class="features-grid">
         <div class="feature-item">
           <div class="feature-icon"><i class="fa-solid fa-layer-group"></i></div>
-          <div class="feature-title">Q1-Q4#sac7383-2026.pdf</div>
+          <div class="feature-title">Kapitalabruf-09-2026.pdf</div>
           <div class="feature-desc">PDF Document • 2.4 MB.</div>
         </div>
       </div>
